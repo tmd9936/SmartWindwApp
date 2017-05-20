@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586430134457",
+    "firebase_url": "https://smartwindw.firebaseio.com",
+    "project_id": "smartwindw",
+    "storage_bucket": "smartwindw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586430134457:android:9cefb452cd001e4d",
+        "android_client_info": {
+          "package_name": "com.example.administrator.my22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586430134457-t1t5l668e874p6sf5hn2o0k5brakhboo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkg6WbGT4n1pS9Y67tJnhSce5ifYRcMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

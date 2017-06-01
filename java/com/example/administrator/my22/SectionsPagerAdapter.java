@@ -33,7 +33,7 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         return Fragment_Number;
-    } //ㅠㅔ이지가 몇개인지 리턴
+    } //페이지가 몇개인지 리턴
 
     @Override
     public CharSequence getPageTitle(int position) {
@@ -47,4 +47,6 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
         }
         return null;
     } //페이지의 제목을 리턴하는 함수
+
+
 }

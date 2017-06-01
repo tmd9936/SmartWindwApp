@@ -37,11 +37,11 @@ public class DeviceTask extends AsyncTask<Void, Void, Void> {
         info.setIp("220.90.216.90");
         info.setPort(10020);
         // 디바이스상세정보-> Gateway 연결 ID를 입력한다.
-        info.setExtrSysId("OPEN_TCP_001PTL001_1000003581");
+        info.setExtrSysId("OPEN_TCP_001PTL001_1000003582");
         // 디바이스상세정보-> 디바이스 아이디를 입력한다.
-        info.setDeviceId("tmd993D1494308925360");
+        info.setDeviceId("gkdltjD1493939912776");
         // 디바이스상세정보-> 디바이스 패스워드를 입력한다.
-        info.setPassword("nugycoi4m");
+        info.setPassword("cfneojgid");
 
         // IoTMakers 연동 TCP Connector 생성
         IMTcpConnector connector = new IMTcpConnector();
